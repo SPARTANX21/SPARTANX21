@@ -60,10 +60,10 @@ Here are some ideas to get you started:
 
 ### 🌐 Connect with Me:
 <p align="left">
-  <a href="https://linkedin.com/in/your-profile" target="_blank">
+  <a href="https://www.linkedin.com/in/shahpranay57/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
-  <a href="mailto:email@example.com" target="_blank">
+  <a href="mailto:panushah57@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" alt="Email" />
   </a>
 </p>
