@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Pranay Bindesh Shah</h1>
-<h3 align="center">A Passionate Engineer Exploring Big Data, AI, Cloud, and Automation</h3>
+<h3 align="center">A Passionate Engineer Working in Big Data, AI, Cloud, and Automation</h3>
 
 <div align="center">
   <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="400" height="200" alt="Techy and Professional GIF"/>
